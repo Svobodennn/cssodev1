@@ -1,0 +1,66 @@
+.kapsam {
+    background-color: rgb(255, 255, 255);
+}
+
+.logo {
+    margin: 150px 40% 0px;
+    width: auto;
+}
+
+#aramabox {
+    background-color: rgb(226, 226, 226);
+    margin: 0px 150px 0px;
+    width: 80%;
+    height: 90px;
+  
+}
+
+#aramayazisi {
+    height: 25px;
+}
+
+
+#kutu1 {
+    background-color: aqua;
+    height: 120px;
+    width: 480px;
+    margin:  5px 0px 0px 150px;
+    float: left;
+}
+
+#kutu2 {
+        background-color: aqua;
+        height: 120px;
+        width: 360px;
+        font-size: 15px;
+        margin-left: 10px;
+        float: left;
+
+}
+
+#kutu3 {
+    background-color: aqua;
+    height: 120px;
+    width: 356px;
+    font-size: 15px;
+    margin-left: 10px;
+    float: left;
+    
+
+}
+
+.kutular {
+    margin-top: 5px;
+
+}
+
+p {
+    height: 15px;
+    width: 150px;
+    text-align:center;
+    margin-top: 5px;
+}
+
+#yazi1 {
+    margin-top: 15px;
+}
